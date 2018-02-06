@@ -27,6 +27,8 @@ Crear nuevo proyecto con rebar3:
 ### Ejecutar archivo erlang:
 
     $ erl
+    > pwd(). %% ver la ruta actual
+    > ls(). %% ver los archivos de carpeta
     > cd("/home/pepe/Documentos/erlang/aprendiendo").
     > c(tut).
     > tut:hello_world().
