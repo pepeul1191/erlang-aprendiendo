@@ -32,6 +32,9 @@ Crear nuevo proyecto con rebar3:
     > cd("/home/pepe/Documentos/erlang/aprendiendo").
     > c(tut).
     > tut:hello_world().
+    > tut:add(3,4).
+
+10''
 
 ---
 
